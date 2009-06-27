@@ -1,0 +1,90 @@
+body,td,th {
+  font-family: Calibri, Arial, Tahoma;
+  font-size: 12pt;
+  color: #7C7C7C;
+}
+body {
+  background-color: #ffffff;
+  background-image: url('img/fon-cosm.jpg');
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#warp0 {
+  background-image:url('img/fon-t-3.png');
+  width:844px;
+  margin-left:auto;
+  margin-right:auto;
+}
+#warp1 {
+  background-color:#FFFFFF;
+}
+#header {
+  text-align:left;
+  width:100%;
+  margin-top:3px;
+}
+#header span {
+  font-size: 10px;
+  color:black;
+  margin:3px;
+}
+#menu {
+  color:white;
+  font-size:18px;
+  font-weight:bold;
+  margin:2px;
+  margin-top:3px;
+  padding:1px;
+}
+.menu {
+  background-color:#b2c6d9;
+  background-image:url('img/menu.gif');
+}
+#download a {
+  color:#333333;
+  text-decoration:none;
+  font-size:10px;
+}
+#links .label {
+  background-color:#b2c6d9;
+  background-image:url('img/cat_title_head_bg.gif');
+  color:white;
+  font-size:13px;
+  text-align:left;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  color: #cccc00;
+}
+a:hover {
+  text-decoration: none;
+  color: #cccc00;
+}
+a:active {
+  text-decoration: none;
+  color: #cccc00;
+}
+#links {
+  margin-top:35px;
+}
+#links td a {
+  color: #7C7C7C;
+  font-size:small;
+}
+#links a.big, #links tr.biglinks a {
+  font-weight:bold;
+  color: #444444;
+  font-size:17pt;
+}
+#links tr.biglinks a {font-size:13pt;}
+#links td {
+  text-align:center;
+}
+#copyright {
+  font-size:medium;
+}
